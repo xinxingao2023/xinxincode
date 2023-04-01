@@ -1,8 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
-  壳.cpp
-C:\Users\GAOXINGXING\Desktop\壳\壳\壳.cpp(255,21): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\GAOXINGXING\Desktop\壳\壳\壳.cpp(544,21): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\GAOXINGXING\Desktop\壳\壳\壳.cpp(620,23): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\GAOXINGXING\Desktop\壳\壳\壳.cpp(51): warning C4715: “RVAToFOA”: 不是所有的控件路径都返回值
-C:\Users\GAOXINGXING\Desktop\壳\壳\壳.cpp(75): warning C4715: “FOAtoRVA”: 不是所有的控件路径都返回值
-  壳.vcxproj -> C:\Users\GAOXINGXING\Desktop\壳\bin\壳.exe
